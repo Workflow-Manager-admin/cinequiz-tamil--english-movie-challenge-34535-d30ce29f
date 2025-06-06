@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/cinequiz-tamil--english-movie-challenge-34535-d30ce29f/cinequiz_frontend"
+}
